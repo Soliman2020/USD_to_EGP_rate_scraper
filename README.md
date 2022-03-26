@@ -1,5 +1,7 @@
 # USD_to_EGP_rate_scraper
 
+By using Selenium ( CSS / XPath )
+
 
 Download chromedriver.exe from the following link:
 https://chromedriver.chromium.org/home
